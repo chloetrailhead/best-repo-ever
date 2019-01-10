@@ -1,2 +1,2 @@
 # best-repo-ever
-Trail;head module Git and Github basics
+Trailhead module Git and Github basics
